@@ -1,6 +1,6 @@
 package model {
 	import data.IDispose;
-	
+	//author yanghongbin
 	public class MapTileVO implements IDispose {
 		public var col:int;
 		public var row:int;
