@@ -9,7 +9,7 @@
 	import flash.utils.ByteArray;
 	import flash.utils.getTimer;
 	
-	
+	//yanghongbin
 	public class SocketConnectionControl {
 		//客户端编号 1-7     (-1表示主控制客户端)
 		private var clientID:int;
